@@ -1,0 +1,6 @@
+.vale/**
+!.vale/
+!.vale/config/
+!.vale/config/vocabularies/
+!.vale/config/vocabularies/Vale/
+!.vale/config/vocabularies/Vale/*.txt
